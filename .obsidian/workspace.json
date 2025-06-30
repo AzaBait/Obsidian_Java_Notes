@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "1fef6604d1a94245",
+    "type": "split",
+    "children": [
+      {
+        "id": "3dceb684c7ca1bff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5cbfffbba393000e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Интерфейс.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Интерфейс"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5a83e44c5140afc7",
+    "type": "split",
+    "children": [
+      {
+        "id": "354d958639a305a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "233f23d25db2693d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "6befa2744e9e8f68",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "155968a56f1c3058",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "05e5eb560e031583",
+    "type": "split",
+    "children": [
+      {
+        "id": "ddcb56b1bb4b3840",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "588bc7232cc4ddd3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Интерфейс.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Интерфейс"
+            }
+          },
+          {
+            "id": "c1ba8a9635221b10",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Интерфейс.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Интерфейс"
+            }
+          },
+          {
+            "id": "3fad62bfef7d3ff0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "d20162e0a4125ca9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Интерфейс.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Интерфейс"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "5cbfffbba393000e",
+  "lastOpenFiles": [
+    "Абстрактный класс.md",
+    "Инкапсуляция.md",
+    "Абстракция.md",
+    "Полиморфизм.md",
+    "ООП (объектно-ориентированное программирование).md",
+    "Наследование.md",
+    "Интерфейс.md"
+  ]
+}
