@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3dceb684c7ca1bff",
+        "id": "d5fcbe6324f3eec7",
         "type": "tabs",
         "children": [
           {
-            "id": "5cbfffbba393000e",
+            "id": "86ea5452119dfbea",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Абстракция.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Абстракция"
+              "title": "New tab"
             }
           }
         ]
@@ -169,15 +165,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5cbfffbba393000e",
+  "active": "86ea5452119dfbea",
   "lastOpenFiles": [
+    "Абстракция.md",
     "Абстрактный класс.md",
     "ООП (объектно-ориентированное программирование).md",
     "Полиморфизм.md",
     "Наследование.md",
     "Интерфейс.md",
     "Инкапсуляция.md",
-    "Абстракция.md",
     "Полиморфизм.md",
     "ООП (объектно-ориентированное программирование).md",
     "Наследование.md"
