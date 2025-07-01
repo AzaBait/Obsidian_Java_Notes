@@ -1,4 +1,4 @@
-﻿{
+{
   "main": {
     "id": "1fef6604d1a94245",
     "type": "split",
@@ -13,16 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Интерфейс.md",
+                "file": "ООП (объектно-ориентированное программирование).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Интерфейс"
+              "title": "ООП (объектно-ориентированное программирование)"
             }
           }
-        ],
-        "currentTab": 0
+        ]
       }
     ],
     "direction": "vertical"
@@ -172,10 +171,13 @@
   },
   "active": "5cbfffbba393000e",
   "lastOpenFiles": [
+    "Интерфейс.md",
+    "conflict-files-obsidian-git.md",
     "Наследование.md",
     "ООП (объектно-ориентированное программирование).md",
     "Абстракция.md",
     "Абстрактный класс.md",
-    "Инкапсуляция.md"
+    "Инкапсуляция.md",
+    "Полиморфизм.md"
   ]
 }
