@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Абстрактный класс.md",
+                "file": "Абстракция.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Абстрактный класс"
+              "title": "Абстракция"
             }
           }
         ]
@@ -171,8 +171,10 @@
   },
   "active": "5cbfffbba393000e",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Абстрактный класс.md",
+    "ООП (объектно-ориентированное программирование).md",
+    "Полиморфизм.md",
+    "Наследование.md",
     "Интерфейс.md",
     "Инкапсуляция.md",
     "Абстракция.md",
